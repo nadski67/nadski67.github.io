@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mijn eerste webpagina~</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  <h1>Style</h1>
+  h1 {
+    color: violet;
+  }
+
+  body {
+    background-image: url("https://i.pinimg.com/originals/11/2f/15/112f15f72e0e6898e1d4d4cfa86e0322.png");
+    color: tomato;
+  }
+
+  th {
+    background-color: rgb(175,0,186);
+    color: lightblue;
+  }
+
+  td {
+      background-color: hsl(0, 100%, 90%);
+  color: violet;
+  }
+
+  table {
+    /* border-collapse: collapse; */
+    width: 70%;
+  }
+ </body>
